@@ -2,7 +2,7 @@
 
 Objective: To explore how a Vision Transformer, a model originally designed for image recognition tasks, can be adapted to classify blood cell images, enhancing our capabilities in medical diagnostics.
 
-Dataset: Blood Cell Images dataset
+Dataset: Kaggle's Blood Cell Images dataset
 2,500 augmented photos of blood cells (JPEG) with corresponding cell type labels (CSV) are included in this dataset. For each of the four distinct cell types, there are over 3,000 photos organized into four distinct folders (based on cell type). The cell types include Neutrophils, Monocytes, Lymphocytes, and Eosinophils.
 
 Execution and Evaluation:
